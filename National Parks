@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Parks to Visit</title>
+    </head>
+    
+    <body>
+       <!-- Create your national parks page here! -->
+       <!-- 1. Kings Canyon -->
+       <a href="https://en.wikipedia.org/wiki/Kings_Canyon_National_Park">
+           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/KingsCanyonNP.JPG/1920px-KingsCanyonNP.JPG" width="250px">
+       </a>
+       
+       <!-- 2. Kobuk Valley -->
+       <a href="https://en.wikipedia.org/wiki/Kobuk_Valley_National_Park">
+           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Kobuk_Bendlova_235.jpg/1920px-Kobuk_Bendlova_235.jpg" width="250px">
+       </a>
+       
+       <!-- 3. Lake Clark -->
+       <a href="https://en.wikipedia.org/wiki/Lake_Clark_National_Park_and_Preserve">
+           <img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/Lake_Clark_National_Park.jpg" width="250px">
+       </a>
+       
+       <!-- 4. Lassen Volcanic -->
+       <a href="https://en.wikipedia.org/wiki/Lassen_Volcanic_National_Park">
+           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Lassen_Peak_and_Lake_Helen.jpg/1920px-Lassen_Peak_and_Lake_Helen.jpg" width="250px">
+       </a>
+       
+       <!-- 5. Mammoth Cave -->
+       <a href="https://en.wikipedia.org/wiki/Mammoth_Cave_National_Park">
+           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Mammoth_cave%2C_Kentucky%2C_US%2C_tourists_inside.jpg/1920px-Mammoth_cave%2C_Kentucky%2C_US%2C_tourists_inside.jpg" width="250px">
+       </a>
+       
+    </body>
+</html>
