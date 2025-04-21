@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>CodeHS</title>
+    </head>
+    
+    <body>
+        <!-- 1st row -->
+        <img src="https://i.ebayimg.com/images/g/hQ4AAOSwav1kRryR/s-l1600.jpg" width="100px" height="150px"
+        <br><img src="https://us02-imgcdn.ymcart.com/30902/2021/03/08/8/2/828b496782565d20.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_1500,h_1500" width="100px" height="150px">
+        
+        <!-- 2nd row -->
+        <br><img src="https://cf.shopee.co.th/file/94e38d3c636ff5bfa990d709afa7b6b6" width="100px" height="150px">
+        <img src="https://i.ebayimg.com/images/g/chgAAOSwSRVe6ysK/s-l1600.jpg" width="100px" height="150px"
+    </body>
+</html>
