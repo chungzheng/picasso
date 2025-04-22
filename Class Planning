@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Classes to Take</title>
+    </head>
+    
+    <body>
+        <h1>Classes to Take</h1>
+        <!-- Put your list here -->
+        <ul>
+            <li>Art</li>
+            <li>Math</li>
+            <li>Biology</li>
+            <li>Computer Science</li>
+            <li>Chemistry</li>
+        </ul>
+    </body>
+</html>
