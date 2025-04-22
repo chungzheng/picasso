@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Vacation Ideas</title>
+    </head>
+    
+    <body>
+        <h1>Dream Vacation Destinations</h1>
+        <ol>
+            <li>Kwangju</li>
+            <li>Jeonju</li>
+            <li>Xiamen</li>
+            <li>Shanghai</li>
+            <li>Fuzhou</li>
+        </ol>
+    </body>
+</html>
