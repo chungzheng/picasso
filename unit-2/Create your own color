@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>All About Me!</title>
+	</head>
+
+	<body style="background-color:lightblue;">
+		<!--Inside the body tag is where you put all the cool stuff
+		you want on your page!-->
+		
+		<h1 style="background-color:#ffe6ff;">I'm Avery!</h1>
+		<p style="background-color:rgb(128, 0, 0);color:white">I am currently a high schooler.</p>
+	</body>
+</html>
