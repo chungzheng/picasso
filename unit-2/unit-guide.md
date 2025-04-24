@@ -1,5 +1,4 @@
 # Unit 2: HTML - Structuring Websites
-Introduction to basic HTML
 1. Introduction to HTML
 2. Structure of an HTML page
 3. Formatting Text
