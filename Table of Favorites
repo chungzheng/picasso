@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        
+    </head>
+    
+    <body>
+        <h1>My Daily Favorites</h1>
+        <table border = "1">
+            <!-- titles -->
+            <tr>
+              <th>Sunday</th>
+              <th>Monday</th>
+              <th>Tuesday</th>
+              <th>Wednesday</th>
+              <th>Thursday</th>
+              <th>Friday</th>
+              <th>Saturday</th>
+            </tr>
+            <!-- Breakfast -->
+            <tr>
+                <td>Waffles</td>
+                <td>Pancakes</td>
+                <td>Dumplings</td>
+                <td>Cereal</td>
+                <td>Spinach</td>
+                <td>Oatmeal</td>
+                <td>Bagel</td>
+            </tr>
+            <!-- Activity -->
+            <tr>
+                <td>Read</td>
+                <td>Bike</td>
+                <td>Frisbee</td>
+                <td>Video Games</td>
+                <td>Sleep</td>
+                <td>Code</td>
+                <td>Watch TV</td>
+            </tr>
+            <!-- Person -->
+            <tr>
+                <td>Mom</td>
+                <td>Dad</td>
+                <td>Grandma</td>
+                <td>Grandpa</td>
+                <td>Uncle</td>
+                <td>Aunt</td>
+                <td>Cousin</td>
+            </tr>
+            <!-- Place -->
+            <tr>
+                <td>Bed</td>
+                <td>Park</td>
+                <td>Garage</td>
+                <td>Store</td>
+                <td>Warehouse</td>
+                <td>Amusement Park</td>
+                <td>Park</td>
+            </tr>            
+        </table>
+    </body>
+</html>
