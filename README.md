@@ -6,4 +6,4 @@ Each folder contains a guide to each unit.
 Units:
 1. Getting Started - What is the Web?
 2. HTML - Structuring Websites
-3. CSS - Styling Websites (in progress)
+3. CSS - Styling Websites **(in progress)**
