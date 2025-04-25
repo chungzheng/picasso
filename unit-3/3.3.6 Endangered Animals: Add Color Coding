@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Endangered Species</title>
+		<style>
+		    body{
+		        background-color: #FFD1AA;
+		        font-size: 18px;
+		    }
+		    h1{
+		        color:#003333;
+		    }
+		    h2{
+		        color:#162955;
+		    }
+		    
+		    /* Classes */
+		    .endangered{
+		        color:red;
+		    }  
+		    .threatened{
+		        color:OrangeRed;
+		    }
+		    .scientific-name{
+		        font-style:italic;
+		    }
+		</style>
+	</head>
+
+	<body>
+		<h1>Endangered Animals</h1>
+		<!--1-->
+        <h2>Lowland anoa</h2>		
+	    <ul>
+	        <li class="scientific-name">Scientific Name: Bubalus depressicornis</li>
+	        <li>Lives in: Indonesia</li>
+	        <li class="endangered">Endangered</li>
+	    </ul>
+	    
+	    <!--2-->
+        <h2>Gelada</h2>		
+	    <ul>
+	        <li class="scientific-name">Scientific Name: Theropithecus gelada</li>
+	        <li>Lives in: Ethiopia</li>
+	        <li class="threatened">Threatened</li>
+	    </ul>
+	    
+	    <!--3-->
+        <h2>Western barred bandicoot</h2>		
+	    <ul>
+	        <li class="scientific-name">Scientific Name: Perameles bougainville</li>
+	        <li>Lives in: Australia</li>
+	        <li class="endangered">Endangered</li>
+	   </ul>
+	        
+	    <!--4-->
+        <h2>Banteng</h2>		
+	    <ul>
+	        <li class="scientific-name">Scientific Name: Bos javanicus</li>
+	        <li>Lives in: Southeast Asia</li>
+	        <li class="endangered">Endangered</li>
+	    </ul>
+	        
+	    <!--5-->
+        <h2>Bumblebee bat</h2>		
+	    <ul>
+	        <li class="scientific-name">Scientific Name: Craseonycteris thonglongyai</li>
+	        <li>Lives in: Thailand</li>
+	        <li class="endangered">Endangered</li>
+	    </ul>
+	</body>
+</html>
