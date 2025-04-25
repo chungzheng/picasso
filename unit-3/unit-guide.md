@@ -1,4 +1,4 @@
-# Unit 3: CSS - Syling Websites
+# Unit 3: CSS - Styling Websites
 1. Introduction to CSS
 2. CSS Select by Tag
 3. CSS Select by Class
