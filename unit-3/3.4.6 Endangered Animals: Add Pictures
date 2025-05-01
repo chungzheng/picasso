@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Endangered Species</title>
+		<style>
+		    body{
+		        background-color: #FFD1AA;
+		        font-size: 18px;
+		    }
+		    h1{
+		        color:#003333;
+		    }
+		    h2{
+		        color:#162955;
+		    }
+		    
+		    /* Classes */
+		    .endangered{
+		        color:red;
+		    }  
+		    .threatened{
+		        color:OrangeRed;
+		    }
+		    .scientific-name{
+		        font-style:italic;
+		    }
+		    
+		    /*Borders*/
+		    img{
+		        width:150px;
+		    }
+		    #anoa{
+		        border-style:dotted;
+		    }
+		    #gelada{
+		        border-style:dashed;
+		    }
+		    #bandicoot{
+		        border-style:solid;
+		    }
+		    #banteng{
+		        border-style:double;
+		    }
+		    #bat{
+		        border-style:groove;
+		    }
+		</style>
+	</head>
+
+	<body>
+		<h1>Endangered Animals</h1>
+		<!--1-->
+        <h2>Lowland anoa</h2>		
+	    <ul>
+	        <li class="scientific-name">Scientific Name: Bubalus depressicornis</li>
+	        <li>Lives in: Indonesia</li>
+	        <li class="endangered">Endangered</li>
+	    </ul>
+	    <img id="anoa" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Anoa_Bubalus_depressicornis_Surabaya_Zoo.jpg/500px-Anoa_Bubalus_depressicornis_Surabaya_Zoo.jpg">
+	    <p>Source: Lowland Anoa, Anoa, Surabaya Zoo, 2009, <a href="https://en.wikipedia.org/wiki/Lowland_anoa#/media/File:Anoa_Bubalus_depressicornis_Surabaya_Zoo.jpg">Wikipedia</a></p>
+	    
+	    <!--2-->
+        <h2>Gelada</h2>		
+	    <ul>
+	        <li class="scientific-name">Scientific Name: Theropithecus gelada</li>
+	        <li>Lives in: Ethiopia</li>
+	        <li class="threatened">Threatened</li>
+	    </ul>
+	    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Gelada_%28Theropithecus_gelada_gelada%29_male_2.jpg/500px-Gelada_%28Theropithecus_gelada_gelada%29_male_2.jpg" id="gelada">
+	    <p>Source: Gelada, Gelada (Theropithecus gelada gelada) male, near Debre Libanos, Ethiopia, 2017, <a href="https://en.wikipedia.org/wiki/Gelada#/media/File:Gelada_(Theropithecus_gelada_gelada)_male_2.jpg">Wikipedia</a></p>
+	    
+	    <!--3-->
+        <h2>Western barred bandicoot</h2>		
+	    <ul>
+	        <li class="scientific-name">Scientific Name: Perameles bougainville</li>
+	        <li>Lives in: Australia</li>
+	        <li class="endangered">Endangered</li>
+	   </ul>
+	   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Perameles_bougainville_-_Museo_Civico_di_Storia_Naturale_Giacomo_Doria_-_Genoa%2C_Italy_-_DSC02989.JPG/1024px-Perameles_bougainville_-_Museo_Civico_di_Storia_Naturale_Giacomo_Doria_-_Genoa%2C_Italy_-_DSC02989.JPG" id="bandicoot">
+	   <p>Source: Western barred bandicoot, Exhibit in the Museo Civico di Storia Naturale di Genova, 2013, <a href="https://en.wikipedia.org/wiki/Western_barred_bandicoot#/media/File:Perameles_bougainville_-_Museo_Civico_di_Storia_Naturale_Giacomo_Doria_-_Genoa,_Italy_-_DSC02989.JPG">Wikipedia</a></p>
+	        
+	    <!--4-->
+        <h2>Banteng</h2>		
+	    <ul>
+	        <li class="scientific-name">Scientific Name: Bos javanicus</li>
+	        <li>Lives in: Southeast Asia</li>
+	        <li class="endangered">Endangered</li>
+	    </ul>
+	    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Banteng_Alas_Purwo.jpg/500px-Banteng_Alas_Purwo.jpg" id="banteng">
+	    <p>Source: Banteng, Banteng (Bos Javanicus) salah satu binatang yang dilindungi di Taman Nasional Alas Purwo, 2017, <a href="https://en.wikipedia.org/wiki/Banteng#/media/File:Banteng_Alas_Purwo.jpg">Wikipedia</a></p>
+	</body>
+</html>
