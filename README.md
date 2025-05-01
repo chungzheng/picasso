@@ -7,4 +7,5 @@ Units:
 1. Getting Started - What is the Web?
 2. HTML - Structuring Websites
 3. CSS - Styling Websites
-4. Homepage: Your First Website **(in progress)**
+4. Homepage: Your First Website
+5. Advanced HTML and CSS **(in progress)**
