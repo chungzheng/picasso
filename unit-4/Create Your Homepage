@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Avery Davis</title>
+        <style>
+            
+        </style>
+    </head>
+    
+    <body>
+        <!-- Profile Pic-->
+        <img width="100px" src="https://i.pinimg.com/originals/75/69/fc/7569fc09af1a86125f0900cd1998d0dc.jpg">
+        <h1>Hi! I'm Avery</h1>
+        <p>I'm currently a high school student.</p>
+        <p>I like to:</p>
+        <ul>
+            <li>Sleep</li>
+            <li>Eat</li>
+            <li>Read</li>
+            <li>Go on walks</li>
+            <li>Drink tea</li>
+        </ul>
+        <p>I want to learn how to make good websites in this course!</p>
+        <p><a href="https://pdssyvbbet-2910764563-a.codehs.me/index.html">Here's my favorite I've made so far (ignore the ugly colors).</a></p>
+    </body>
+</html>
