@@ -1,7 +1,8 @@
 # Web Design (Picasso)
 [Link to Class](https://codehs.com/course/web_design_picasso/overview)  
 &nbsp;  
-Each folder contains a guide to each unit.  
+This is a course on basic web development, introducing HTML, CSS, and Bootstrap. All files in this repository are webpages I created while taking this course.
+Each unit folder contains a guide to what material was covered. Not all units had me create webpages, which is why there is not a folder for them.  
 &nbsp;  
 Units:
 1. Getting Started - What is the Web?
