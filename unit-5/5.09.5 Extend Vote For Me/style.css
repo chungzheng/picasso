@@ -1,0 +1,40 @@
+ul{
+    list-style:square;
+}
+body{
+    font-size:20px;
+}
+
+li:hover::after{
+    background-color:PaleGoldenRod;
+    content:"  Pick me! Pick me!";
+}
+
+li:active::after{
+    background-color: #46c70b;
+    content: " You have made a good decision";
+}
+
+/* Seong */
+#seong:hover::after{
+    color:blue;
+}
+#seong:active::after{
+    color:purple;
+}
+
+/* Andile */
+#andile:hover::after{
+    color:red;
+}
+#andile:active::after{
+    color:blanchedalmond;
+}
+
+/* Shakti */
+#shakti:hover::after{
+    color:green;
+}
+#shakti:active::after{
+    color:olive;
+}
