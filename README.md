@@ -9,4 +9,9 @@ Units:
 2. HTML - Structuring Websites
 3. CSS - Styling Websites
 4. Homepage: Your First Website
-5. Advanced HTML and CSS **(in progress)**
+5. Advanced HTML and CSS **(in progress)**  
+&nbsp;
+
+Was there a better way to format all these files? Most definitely.  
+Will I reformat these files? No. Let this be a testament to my first real repository.  
+(I swear I'm not a vibe coder)
