@@ -1,0 +1,31 @@
+thead{
+    background-color:midnightblue;
+    color:white;
+}
+
+footer{
+ margin-top:15%;   
+}
+
+#aliceblue{
+    background-color:AliceBlue;
+}
+
+#lightseagreen{
+    background-color:LightSeaGreen;
+}
+
+#orangered{
+    background-color:OrangeRed;
+}
+
+#darkgoldenrod{
+    background-color:DarkGoldenRod;
+}
+#blanchedalmond{
+    background-color:BlanchedAlmond;
+}
+
+tr{
+    border-style:solid;
+}
