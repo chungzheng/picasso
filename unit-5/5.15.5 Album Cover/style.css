@@ -1,0 +1,9 @@
+@keyframes filtery{
+    from{filter:none}
+    to{filter:invert(100%);
+}
+
+img{
+    animation:filtery 2s forward;
+    width:100px;
+}
