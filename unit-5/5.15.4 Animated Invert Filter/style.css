@@ -1,0 +1,12 @@
+img {
+    height: 300px;  
+}
+
+@keyframes inverter{
+    from{filter:invert(0%);
+    to{filter:invert(100%);
+}
+
+.filtered-image{
+    animation:inverter 2s forwards;
+}
